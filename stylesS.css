@@ -2,19 +2,16 @@
 header{
     position: sticky;
 }
-body{
-
-    background-image: url(construction-workers-sunset.jpg);
+html{
+     background-image: url(construction-workers-sunset.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    width:100vw;
+}
+
+body{
     margin: 0;
-
-
-
-    
 }
 main{
     margin-left: 1px;
