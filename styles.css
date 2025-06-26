@@ -2,22 +2,13 @@
 header{
     position: sticky;
 }
-
-html{
-     background-image: url(2183383.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover; 
-}
-
 body{
-    margin: 0px;
+    background-color: white;
+    margin: 0;
 }
 main{
     
-    margin-left: 15px;
-    margin-right: 15px;
+  
     
 }
 
@@ -61,12 +52,23 @@ main{
     float: left;
 }
 
-div {
+.jade {
    
     
     text-align: right;
     padding-top: 3px;
     padding-left: 5px;
+    padding-bottom: -4px;
+    height: 140px;
+    background-color: hsl(0, 0%, 100%);
+  
+}
+.jade2 {
+   
+    border-radius: 10px;
+    text-align: right;
+    padding-top: 3px;
+    padding: 2px;
     padding-bottom: -4px;
     height: 140px;
     background-color: hsl(0, 0%, 100%);
@@ -92,6 +94,7 @@ div {
 }
 
 p{
+    margin-top: 0px;
     text-align: right;
     font-size: 40px;
     background-color: hsla(0, 0%, 22%, 0.847);
