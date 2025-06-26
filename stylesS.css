@@ -2,17 +2,17 @@
 header{
     position: sticky;
 }
-html{
-     background-image: url(construction-workers-sunset.jpg);
+
+body{
+  /*  background-image: url(construction-workers-sunset.jpg);*/
+   background-color: rgb(86, 86, 86);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-}
-
-body{
     margin: 0;
 }
+
 main{
     margin-left: 1px;
     margin-right: 1px;
@@ -111,7 +111,6 @@ p{
     overflow: auto;
     background-color: rgb(24, 24, 24);
     margin: 0px;
-    padding-left: 20px;
     text-align: center;
     
 }
@@ -228,6 +227,6 @@ main{
 }
 
 .Mining_Services img:hover {
-    width: 320px;
-    height: auto;
+    width: 310px;
+    
 }
