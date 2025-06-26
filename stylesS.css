@@ -6,7 +6,7 @@ body{
 
     background-image: url(construction-workers-sunset.jpg);
     background-repeat: no-repeat;
-    background-position: 0px 0px;
+    background-position: centre;
     background-attachment: fixed;
     background-size: cover;
     margin: 0;
