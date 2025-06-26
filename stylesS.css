@@ -10,6 +10,9 @@ body{
     background-attachment: fixed;
     background-size: cover;
     margin: 0;
+
+
+
     
 }
 main{
@@ -96,30 +99,27 @@ p{
 
 #mainServices{
     padding:30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     overflow: auto;
     background-color: white;
+    border-radius: 10px;
     margin: 0px;
     padding-left: 20px;
+    text-align: center;
    
 }
 
 #mainServices2{
-    padding:30px;
-    display: flex;
-    justify-content: center;
     align-items: center;
     overflow: auto;
     background-color: rgb(234, 234, 234);
     margin: 0px;
     padding-left: 20px;
-   
+   text-align: center;
 }
 
 
 .container{
+
     display: inline-block;
     justify-content: center;
     border-radius: 10px;
@@ -173,9 +173,7 @@ main{
     transition: display 0.3s ease-in-out;
 }
 
-.container:hover {
-    float: left;
-}
+
 
 .container:hover .containerDescription{
     position: relative;
