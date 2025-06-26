@@ -4,7 +4,7 @@ header{
 }
 body{
 
-    background-image: url(2183368.jpg);
+    background-image: url(2183383.png);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -92,7 +92,7 @@ div {
 p{
     text-align: right;
     font-size: 40px;
-    background-color: hsla(33, 78%, 91%, 0.229);
+    background-color: hsla(0, 0%, 22%, 0.847);
 }
 
 #changer{
